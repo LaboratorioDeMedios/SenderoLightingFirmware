@@ -55,3 +55,8 @@ The following picture shows the way to connect the wireless dongle to the Bondib
 -------------
 
 For more information about Sendero Project go to the [base repository](https://github.com/LaboratorioDeMedios/SenderoProject).
+
+
+
+---------
+Logo designed by flaviarampa@gmail.com & nilsonbarbara@gmail.com
