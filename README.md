@@ -3,7 +3,7 @@
 # Sendero Lighting Firmware
 
 
-C++ firmware for NodeMCU V2 DevKit boards that works as intermediary between [Sendero Middleware](https://github.com/Sendero-Project/SenderoMiddleware) and Sendero LED Driver (Bondibar).
+C++ firmware for NodeMCU V2 DevKit boards that works as intermediary between [Sendero Middleware](https://github.com/LaboratorioDeMedios/SenderoMiddleware) and Sendero LED Driver (Bondibar).
 
 The code is wrapped in a [PlatformIO](http://platformio.org/platformio-ide) project. It compiles for **NodeMCU v2 DevKit** board using [Arduino framework](https://github.com/esp8266/Arduino).
 
@@ -27,7 +27,7 @@ Installation
 
 - You can now verify if the device connected to your AP by accessing to your router's admin page. It's possible to access to the configuration form through the local network using the device's IP adderess. The device's *AP mode* turns off while it's connected to the router. To activate it back just leave ssid and password inputs blank, save and restart the device.
 
-- It is now possible to receive streaming from [Sendero Middleware](https://github.com/Sendero-Project/SenderoMiddleware). Go to its repository to check how to configure the device as a receiver.
+- It is now possible to receive streaming from [Sendero Middleware](https://github.com/LaboratorioDeMedios/SenderoMiddleware). Go to its repository to check how to configure the device as a receiver.
 
 
 Connection with Bondibar
@@ -54,4 +54,4 @@ The following picture shows the way to connect the wireless dongle to the Bondib
 
 -------------
 
-For more information about Sendero Project go to the [base repository](https://github.com/Sendero-Project/Sendero).
+For more information about Sendero Project go to the [base repository](https://github.com/LaboratorioDeMedios/SenderoProject).
